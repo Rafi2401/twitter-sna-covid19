@@ -3,8 +3,6 @@
 ### Link Publications 
 [Click Here](https://ieeexplore.ieee.org/document/9537011)
 
-# Analisis Jaringan Sosial (Social Network Analysis) pada Pengguna Twitter
-
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan **Analisis Jaringan Sosial (Social Network Analysis - SNA)** pada pengguna Twitter. Analisis ini berfokus pada pemetaan jaringan hubungan antar pengguna, terutama untuk mengidentifikasi influencer, pola interaksi, dan struktur komunitas dalam konteks spesifik. Proyek ini berguna untuk memahami dinamika sosial dan pengaruh di dalam jaringan yang besar.
 
